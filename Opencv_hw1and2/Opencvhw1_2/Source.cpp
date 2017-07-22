@@ -79,8 +79,3 @@ int HW02_ReadAndShowData(int numberOfImgs) {
 
 	return 0;
 }
-
-
-
-
-
